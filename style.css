@@ -44,11 +44,11 @@ nav {
 
 /* Default */
 a {
-  color: whitesmoke;
+  color: black;
 }
 /* Unvisited*/
 a:link {
-  color: whitesmoke;
+  color: black;
 }
 /* Visited*/
 a:visited {
